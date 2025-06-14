@@ -2,7 +2,7 @@
 #include "doctest\doctest.h"
 #include "include\se3.h"
 
-// Doctest-based test code for Spatial::Isometry3<T> library.
+// Doctest-based test code for Spatial::SE3<T> library.
 
 using se3f = Spatial::SE3<float>;
 using vec3f = vec3<float>;
